@@ -1,0 +1,28 @@
+body{
+    background: black;
+    background-image: url(../images/8iEbG84rT.gif);
+    font-family: 'Kalam';
+    font-size: 22px;
+    
+}
+.btn{
+    margin: 1%;
+    margin-top: 3%;
+    background: lightgreen;
+    color: black;
+    font-weight: bold;
+}
+.gif{
+    float: left;
+    margin:1%;
+    
+   
+}
+#card{
+    max-width: 80%;
+    background: white;
+}
+#add-animal{
+    color: black;
+    background: lightpink;
+}
